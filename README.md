@@ -1,3 +1,3 @@
 # Foundation.Catalog.Website
 
-This repository is deprecated and will be removed shortly.
+Sample code for catalog selection, driven by cookie value.
